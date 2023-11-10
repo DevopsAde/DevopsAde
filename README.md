@@ -1,5 +1,5 @@
 - 👋 Hello my name is Afolayan Adewale, an aspiring devOps Engineer. Currently on Darey.io bootcamps where am working on my portfolio of 30 projects that will showcase my abilities to potential employers through Project Based Learning.
-- 👀 I’m interested in ...
+- I am also a Cyber Security and Forensic Analyst.
 - 🌱 Project done so far are stated Below:
 - IMPLEMENTING LOAD BALANCERS WITH NGINX
 - IMPLEMENTING WORDPRESS WEBSITE WITH LVM STORAGE MANAGEMENT
