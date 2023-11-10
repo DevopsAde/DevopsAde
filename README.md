@@ -9,7 +9,7 @@
 - SHELL SCRIPTING
 - DEVOPS TOOLING WEBSITE SOLUTION
 - ANSIBLE AUTOMATION, REFACTORING AND STATIC ASSIGNMENTS (IMPORTS AND ROLES)
-- 💞️ I’m looking to collaborate with other DevOps engineers and Solution Architect out there and gain more insights in the industry.
+- 💞️ I’m looking to collaborate with other DevOps Engineers and Solution Architect out there and gain more insights in the industry.
 - 📫 How to reach me: afolayana08@gmail.com
 
 <!---
